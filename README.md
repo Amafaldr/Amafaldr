@@ -1,5 +1,5 @@
 
-### Olá, eu sou Rafael Amafaldo um ex-estudante de administração em mudança de carreira, vida longa e própera devs !🖖🏼
+### Vida longa e própera devs !🖖🏼
 [![Enviar um Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael.amafaldo@fatec.sp.gov.br) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_amafaldo/)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/dashboard/projects/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-amafaldo-770917252/)
