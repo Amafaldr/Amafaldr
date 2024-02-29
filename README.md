@@ -4,10 +4,7 @@
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/dashboard/projects/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-amafaldo-770917252/)
 
-
-![Amafaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amafaldr&show_icons=true&theme=dark)
-
-![Amafaldo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amafaldr&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amafaldr&hide=javascript,html)
 
 ### Tecnologias que eu uso no dia a dia:
 
