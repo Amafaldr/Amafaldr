@@ -6,14 +6,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amafaldr&hide=javascript,html)
 
-### Tecnologias que eu uso no dia a dia:
-
-<div style="display: inline_block"><br/>
 
 ### 1. Linguagens que eu estudo atualmente:
 
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 ### 2. Ferramentas Office:
 <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img align="center" alt="Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
